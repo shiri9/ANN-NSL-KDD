@@ -1,2 +1,2 @@
-# ANN-NSL-KDD
-Implementing ANN on NSL-KDD dataset
+# RandomForest - DecisionTree -NSL-KDD
+Implementing Random Forest and Decision Tree on NSL-KDD dataset
